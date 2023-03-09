@@ -1,0 +1,22 @@
+{
+  "name": "sit323_737--2023-t1-prac2p-laptop",
+  "version": "1.0.0",
+  "description": "SIT737 - Task 2.1 ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaGoblin/sit323_737--2023-t1-prac2p.git"
+  },
+  "author": "Philip Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaGoblin/sit323_737--2023-t1-prac2p/issues"
+  },
+  "homepage": "https://github.com/DaGoblin/sit323_737--2023-t1-prac2p#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
