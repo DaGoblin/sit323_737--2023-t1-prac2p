@@ -5,7 +5,7 @@ app.use(express.urlencoded({ extended: false }));
 
 function gettime() {
   var datetime = new Date();
-  return datetime.toLocaleString(); // -> "2/1/2013 7:37:08 AM"
+  return datetime.toLocaleString(); 
 }
 
 // app.get("/", function (req, res) {
